@@ -48,6 +48,8 @@ You can replace the dataset with your region-specific data for localized recomme
 
 > ✔️ If any parameter changes, the recommendation will adapt accordingly in real-time.
 
+**Sample Output**
+
 Temperature: 27°C
 Humidity: 70%
 pH Level: 6.5
