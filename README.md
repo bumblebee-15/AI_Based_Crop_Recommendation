@@ -47,3 +47,9 @@ You can replace the dataset with your region-specific data for localized recomme
 3. **Output**: The system dynamically recommends the best-fit crop.
 
 > ✔️ If any parameter changes, the recommendation will adapt accordingly in real-time.
+
+Temperature: 27°C
+Humidity: 70%
+pH Level: 6.5
+Recommended Crop: Rice 🌾
+
